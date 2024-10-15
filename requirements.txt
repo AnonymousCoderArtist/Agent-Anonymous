@@ -1,0 +1,13 @@
+webscout
+requests
+fake-useragent
+logging
+datetime
+click
+rich
+pygetwindow
+lxml_html_clean
+gradio_client
+psutil
+colorlog
+yaspin
